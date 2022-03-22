@@ -1,0 +1,115 @@
+header {
+  color: blue;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body {
+  width: 1430px;
+  height: 800px;
+  background-color: rgb(158, 158, 243);
+  position: relative;
+}
+#img1 {
+  width: 1430px;
+  height: 650px;
+  position: absolute;
+  bottom: 50px;
+}
+#img2 {
+  width: 80px;
+  height: 90px;
+  position: absolute;
+  bottom: 10px;
+  left: 55px;
+  
+}
+#img3 {
+  width: 110px;
+  height: 110px;
+  position: absolute;
+  top: 40px;
+  right: 318px;
+}
+.div1{
+  width: 40px;
+  height: 5px;
+  background-color: red;
+}
+#div01{
+  position: absolute;
+  bottom: 90px;
+  left: 100px;
+}
+#div02{
+  position: absolute;
+  bottom: 455px;
+  left: 350px;
+}
+#div03{
+  position: absolute;
+  bottom: 620px;
+  left: 600px;
+}
+#div04{
+  position: absolute;
+  bottom: 375px;
+  left: 850px;
+}
+#div05{
+  position: absolute;
+  bottom: 650px;
+  left: 1050px;
+}
+.second {
+  width: 70px;
+  height: 70px;
+  position:absolute;
+  top: 195px;
+  right: 300px;
+  visibility: hidden;
+  background-color: transparent;
+}
+#step1 {
+  position: absolute;
+  top: 3px;
+  left: 2px;
+  width: 15px;
+  height: 10px;
+  background-color: rgb(141, 10, 10);
+  border-radius: 5px 6px 1px 9px;
+}
+#step2 {
+  position: absolute;
+  top: 19px;
+  left: 22px;
+  width: 24px;
+  height: 16px;
+  background-color: rgb(141, 10, 10);
+  border-radius: 30px 12px 17px 6px;
+}
+#step3 {
+  position: absolute;
+  top: 24px;
+  left: 46px;
+  width: 15px;
+  height: 19px;
+  background-color: rgb(141, 10, 10);
+  border-radius: 14px 11px 11px 16px;
+}
+#step4 {
+  position: absolute;
+  top: 48px;
+  left: 13px;
+  width: 10px;
+  height: 14px;
+  background-color: rgb(141, 10, 10);
+  border-radius: 14px 4px 19px 16px;
+}
+#step5 {
+  position: absolute;
+  right: 6px;
+  bottom: 4px;
+  height: 14px;
+  width: 21px;
+  background-color: rgb(141, 10, 10);
+  border-radius: 14px 4px 19px 16px;
+}
